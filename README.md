@@ -11,7 +11,7 @@ Hi, I'm King Kyei Boakye. <img src="https://raw.githubusercontent.com/MartinHein
 I'm a Software Engineering student at ALX, driven by a passion for coding and a thirst for knowledge. My journey in software development has been fueled by hands-on experience, as I firmly believe in learning by doing. Additionally, I am a Finance graduate passionate about financial engineering and portfolio management.
 
 ### Goals:
-In addition to honing my software engineering skills, I aspire to contribute to advancements in scientific research, nuclear engineering and materials science. crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.
+In addition to honing my software engineering skills, I aspire to contribute to advancements in financial research, financial analysis, investment analysis financial engineering, risk management and portfolio management. crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.
 
 ![](https://komarev.com/ghpvc/?username=Oyiad23&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/Oyiad23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Oyiad23?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/YiadomKojo1" target="_blank" rel="noreferrer"><img

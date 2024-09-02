@@ -39,4 +39,4 @@ src="https://img.shields.io/twitter/follow/YiadomKojo1?logo=twitter&style=for-th
 
 [![](https://visitcount.itsvg.in/api?id=Oyiad23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#FYI: Thanks and Gratitude goes to <a href="">Marveile</a> who inspired me to organize my page 😁👍 ... Thanks Bro !
+#FYI: My Gratitude goes to <a href="">Marveile</a> who inspired me to organize my page 😁👍 ... Thanks Bro !

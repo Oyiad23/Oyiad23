@@ -3,15 +3,15 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+King+Kyei+Boakye;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 <h1 align="center">
-Hi, I'm King Kyei Boakye. My poetic name is King The Poet Godly of a sort <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+Hi, I'm King Kyei Boakye (King The Poet Godly of a sort) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### About Me:
-I'm a Software Engineering student at ALX, driven by a passion for coding and a thirst for knowledge. My journey in software development has been fueled by hands-on experience, as I firmly believe in learning by doing. Additionally, I am a Finance graduate passionate about financial engineering and portfolio management.
+I'm a Software Engineering student at ALX, driven by a passion for coding and a thirst for knowledge. My journey in software development has been fueled by hands-on experience, as I firmly believe in learning by doing. Additionally, I am a Finance graduate, passionate about financial engineering and portfolio management.
 
 ### Goals:
-In addition to honing my software engineering skills, I aspire to contribute to advancements in financial research, financial analysis, investment analysis financial engineering, risk management and portfolio management. crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.
+In addition to honing my software engineering skills, I aspire to contribute to advancements in financial research, financial analysis, investment analysis, financial engineering, risk management and portfolio management. I am passionate about crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.
 
 ![](https://komarev.com/ghpvc/?username=Oyiad23&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/Oyiad23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Oyiad23?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/YiadomKojo1" target="_blank" rel="noreferrer"><img
@@ -39,4 +39,4 @@ src="https://img.shields.io/twitter/follow/YiadomKojo1?logo=twitter&style=for-th
 
 [![](https://visitcount.itsvg.in/api?id=Oyiad23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#FYI: My Gratitude goes to <a href="">Marveile</a> who inspired me to organize my page 😁👍 ... Thanks Bro !
+#FYI: My gratitude goes to <a href="">Marveile</a> who inspired me to organize my page 😁👍 ... Thanks Bro !

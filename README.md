@@ -22,6 +22,7 @@ src="https://img.shields.io/twitter/follow/YiadomKojo1?logo=twitter&style=for-th
 
 - #### 🔭 I’m currently working on improving my coding skills.
 - #### 👯 I’m open to collaborating on Software Engineering projects.
+- #### - Contact me via kyei.king2020@gmail.com for collaborations and other engagements.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -39,4 +40,4 @@ src="https://img.shields.io/twitter/follow/YiadomKojo1?logo=twitter&style=for-th
 
 [![](https://visitcount.itsvg.in/api?id=Oyiad23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#FYI: My gratitude goes to <a href="">Marveile</a> who inspired me to organize my page 😁👍 ... Thanks Bro !
+#FYI: My gratitude goes to Marveile, who inspired me to organize my page 😁👍 ... Thanks Bro !
